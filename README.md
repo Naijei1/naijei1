@@ -33,13 +33,16 @@ Here are a few projects I’ve worked on recently:
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/inttter/md-badges/main/badges/visualstudiocode.svg" height="28" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   </a>
   <a href="https://github.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
