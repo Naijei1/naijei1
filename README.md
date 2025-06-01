@@ -24,6 +24,9 @@ Here are a few projects I’ve worked on recently:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="25px"/>
   </a>
+  <a href="https://react.dev" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="25px"/>
+  </a>
   <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="25px"/>
   </a>
