@@ -12,7 +12,7 @@ Here are a few projects I’ve worked on recently:
 
 ## 🧰 Languages & Tools
 
-### 🖥️ Languages
+### Languages:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -29,7 +29,7 @@ Here are a few projects I’ve worked on recently:
   </a>
 </p>
 
-### 🛠️ Developer Tools
+### Developer Tools:
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
