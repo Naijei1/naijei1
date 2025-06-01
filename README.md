@@ -44,6 +44,9 @@ Here are a few projects I’ve worked on recently:
   <a href="https://vercel.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="25px"/>
   </a>
+  <a href="https://pages.github.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" height="25px"/>
+  </a>
 </p>
 
 
