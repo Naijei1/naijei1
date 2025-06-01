@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Naijei Jiang
 
-Welcome to my GitHub! I'm a computer science student exploring web development, software engineering, and AI. I love building small, creative projects to learn by doing.
+<p align="left">
+  <a href="https://www.cornell.edu/" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cornell_University_seal.svg/120px-Cornell_University_seal.svg.png" 
+         alt="Cornell University" 
+         width="60" 
+         style="vertical-align: middle; margin-right: 8px;" />
+  </a>
+  🎓 Computer Science student at <a href="https://www.cornell.edu/">Cornell University</a>
+</p>
 
 ## 🔭 Projects
 
