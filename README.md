@@ -33,7 +33,7 @@ Here are a few projects I’ve worked on recently:
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/inttter/md-badges/main/badges/visualstudiocode.svg" height="28" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" height="28" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
