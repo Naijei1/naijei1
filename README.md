@@ -10,6 +10,23 @@ Here are a few projects I’ve worked on recently:
 - [Scoreboard](https://github.com/Naijei1/Scoreboard) — A responsive two-team scoreboard with basic JS logic.
 - [Rochester Hometown Website](https://github.com/Naijei1/Rochester-Web) — A personal site built with HTML and CSS to showcase my hometown and learn web basics.
 
+## 🧰 Languages & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
+
+
 ## 🌱 Currently Learning
 
 - HTML
