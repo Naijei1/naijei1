@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a computer science student exploring web development, 
 
 Here are a few projects I’ve worked on recently:
 
-- [Password Generator](https://github.com/Naijei1/Password-Generator) — Generate secure passwords with custom length and copy-to-clipboard support.
-- [Scoreboard](https://github.com/Naijei1/Scoreboard) — A responsive two-team scoreboard with basic JS logic.
+- [Password Generator](https://github.com/Naijei1/PasswordGen-Web) — Generate secure passwords with custom length and copy-to-clipboard support.
+- [Scoreboard](https://github.com/Naijei1/ScoreBoard-Web) — A responsive two-team scoreboard with basic JS logic.
 - [Rochester Hometown Website](https://github.com/Naijei1/Rochester-Web) — A personal site built with HTML and CSS to showcase my hometown and learn web basics.
 
 ## 🧰 Languages & Tools
