@@ -8,7 +8,7 @@ Here are a few projects I’ve worked on recently:
 
 - [Password Generator](https://github.com/Naijei1/PasswordGen-Web) — Generate secure passwords with custom length and copy-to-clipboard support.
 - [Unit Converter](https://github.com/Naijei1/UnitConverter) — Convert between Metric and Imperial units (length, volume, mass) with history tracking via localStorage.
-- [Rochester Hometown Website](https://github.com/Naijei1/Rochester-Web) — A personal site built with HTML and CSS to showcase my hometown and learn web basics.
+- [Oldagram](https://github.com/Naijei1/Oldagram) — A mini Instagram-style post feed to practice semantic HTML, clean CSS, and JavaScript with localStorage support.
 
 ## 🧰 Languages & Tools
 
