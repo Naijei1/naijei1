@@ -6,9 +6,11 @@ Welcome to my GitHub! I'm a computer science student exploring web development, 
 
 Here are a few projects I’ve worked on recently:
 
+- [Seeround](https://github.com/Naijei1/Seeround)  
+  Award-winning wearable assistive device for visually impaired users featuring real-time object recognition and spatial audio feedback to enable hands-free indoor navigation.
+- [ML-Final-Web](https://github.com/Naijei1/ML-Final-Web)  
+  Web application integrating a machine learning model to predict diabetes risk based on user-provided health metrics, with data preprocessing and live prediction features.
 - [Password Generator](https://github.com/Naijei1/PasswordGen-Web) — Generate secure passwords with custom length and copy-to-clipboard support.
-- [Unit Converter](https://github.com/Naijei1/UnitConverter) — Convert between Metric and Imperial units (length, volume, mass) with history tracking via localStorage.
-- [Oldagram](https://github.com/Naijei1/Oldagram) — A mini Instagram-style post feed to practice semantic HTML, clean CSS, and JavaScript with localStorage support.
 
 ## 🧰 Languages & Tools
 
