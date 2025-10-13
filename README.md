@@ -74,15 +74,6 @@ Here are a few projects I’ve worked on recently:
 </p>
 
 
-
-
-## 🌱 Currently Learning
-
-- HTML
-- CSS
-- JavaScript
-- React
-
 ## 📫 Contact
 
 Feel free to connect or reach out:
