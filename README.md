@@ -1,82 +1,70 @@
 # 👋 Hi, I'm Naijei Jiang
 
-Welcome to my GitHub! I'm a computer science student exploring web development, software engineering, and AI. I love building small, creative projects to learn by doing.
+I'm a **Computer Science student at Cornell University ('28)** interested in **backend engineering, distributed systems, and AI infrastructure**. I build systems that coordinate work across machines, and I enjoy bringing software into the physical world through computer vision and AR/VR.
 
-## 🔭 Projects
+- **Previously at GEICO:** Software engineering intern working on Kafka schema infrastructure with Terraform and AI agent workflows for claims operations.
+- **Cornell Data Science:** Technical lead working on peer-to-peer file distribution and compute infrastructure for ML workloads.
+- **Teaching:** CS 2110 teaching assistant, helping students learn Java, data structures, and software design.
+- **Currently learning:** Rust and distributed systems.
 
-Here are a few projects I’ve worked on recently:
+## 🔭 Featured Projects
 
-- [Seeround](https://github.com/AuraHatlol/Seeround) - Award-winning wearable assistive device for visually impaired users featuring real-time object recognition and spatial audio feedback to enable hands-free indoor navigation.
-- [ML-Final-Web](https://github.com/Naijei1/ML-Final-Web) - Web application integrating a machine learning model to predict diabetes risk based on user-provided health metrics, with data preprocessing and live prediction features.
-- [Password Generator](https://github.com/Naijei1/PasswordGen-Web) - Generate secure passwords with custom length and copy-to-clipboard support.
+### [Distributed Downloader](https://github.com/CornellDataScience/distributed-downloader)
+**Java · Spring Boot · gRPC · Protocol Buffers · Maven**
+
+Tech lead for a Cornell Data Science team building a peer-to-peer file downloader. A tracker handles peer discovery and heartbeats, while clients retrieve chunks from multiple peers in parallel over gRPC streams. File data moves directly between peers and clients, keeping the tracker out of the transfer path.
+
+### [CDS Compute Cluster](https://github.com/CornellDataScience/computecluster)
+**Linux · Slurm · NFS · Docker · GPU Computing**
+
+Worked on a six-node compute cluster for AI workloads, configuring job scheduling and shared storage across networked hardware. Built a health dashboard for CPU/GPU usage and node status to make the cluster easier to monitor.
+
+### [GroovyAR](https://github.com/Naijei1/GroovyAR)
+**Python · OpenCV · Flask · React Native · WebSockets**
+
+An augmented-reality drum trainer that combines ArUco marker tracking, camera-based drumstick detection, and real-time visual cues. Mobile controls connect to the vision runtime through a Flask backend and WebSocket bridge. **1st Place Overall at Cornell Makeathon (2026).**
+
+[Watch the demo](https://youtu.be/zjiVDPzzH5k)
+
+### [Seeround](https://github.com/AuraHatlol/Seeround)
+**Python · OpenCV · Raspberry Pi · Ultrasonic Sensors**
+
+A wearable assistive-device prototype that combines computer vision, distance sensing, and directional audio to help visually impaired users navigate indoor spaces. **Best Hardware Hack at Cornell Makeathon (2025).**
+
+[Watch the demo](https://youtu.be/4V7Y8gmsLtg)
+
+### [Chinese Flashcards](https://github.com/Naijei1/FlashCardApp)
+**TypeScript · Next.js · React · DynamoDB · AWS Amplify**
+
+A flashcard app built for my own Chinese study, with FSRS spaced repetition, pronunciation playback, CSV import/export, and an installable iPhone PWA. Uses a single-table DynamoDB design to store decks, cards, and review history.
+
+### [VR Bioprinting Research](https://github.com/Naijei1/VR-Bioprinting-Research-Project)
+**C# · Unity · Blender**
+
+Led development of an interactive VR bioprinting simulator for education research with RIT. Built virtual interactions and 3D assets to help users explore bioprinting concepts.
 
 ## 🧰 Languages & Tools
 
-### Languages:
+**Languages**
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="25px"/>
-  </a>
-  <a href="https://react.dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="25px"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://ocaml.org" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" style="text-decoration: none;">
-    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px"/>
-  </a>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-### Developer Tools:
+| Area | Technologies |
+| --- | --- |
+| Backend & distributed systems | Spring Boot, gRPC, Protocol Buffers, Flask, Node.js, Kafka |
+| Infrastructure | AWS, Terraform, Docker, Linux, Slurm, NFS, Git |
+| Databases | DynamoDB, MongoDB, PostgreSQL |
+| Web & mobile | React, Next.js, React Native, HTML/CSS, Tailwind CSS |
+| ML & computer vision | OpenCV, scikit-learn, NumPy, pandas |
+| AR/VR & hardware | Unity, Blender, Raspberry Pi |
 
-<p align="left">
-  <a href="https://numpy.org" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="25px"/>
-  </a>
-  <a href="https://github.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="25px"/>
-  </a>
-  <a href="https://pages.github.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" height="25px"/>
-  </a>
-</p>
+## 📫 Connect
 
-
-## 📫 Contact
-
-Feel free to connect or reach out:
-
-- 📧 Email: [naijeiwow@gmail.com](mailto:naijeiwow@gmail.com)
-- 🌐 Portfolio: *coming soon!*
+[Email](mailto:naijeiwow@gmail.com) · [GitHub](https://github.com/Naijei1)
