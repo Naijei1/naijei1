@@ -55,8 +55,7 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 <p><strong>Scan it. Connect it. Walk it.</strong></p>
 <p>An indoor navigation ecosystem with an iPhone LiDAR mapper, a web editor to connect zones across rooms and floors, and live AR guidance. Scanning and navigation run on the phone, with Firebase map sharing and no hardcoded routes.</p>
 <p><code>Swift</code> <code>ARKit</code> <code>Unity</code> <code>React</code> <code>Firebase</code></p>
-<p><a href="https://github.com/mukundgaur/gnarly"><strong>Explore the ecosystem →</strong></a></p>
-
+<p><a href="https://github.com/mukundgaur/gnarly"><strong>Code →</strong></a> &nbsp; <a href="https://youtu.be/XkmW11bmEXg?si=iq6QOmiekDFxMNwl"><strong>Watch it in action ↗</strong></a></p>
 </td>
 <td width="50%" valign="top">
 
