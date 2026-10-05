@@ -51,6 +51,15 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 <tr>
 <td width="50%" valign="top">
 
+<h3>📍 Gnarly</h3>
+<p><strong>Scan it. Connect it. Walk it.</strong></p>
+<p>An indoor navigation ecosystem with an iPhone LiDAR mapper, a web editor to connect zones across rooms and floors, and live AR guidance. Scanning and navigation run on the phone, with Firebase map sharing and no hardcoded routes.</p>
+<p><code>Swift</code> <code>ARKit</code> <code>Unity</code> <code>React</code> <code>Firebase</code></p>
+<p><a href="https://github.com/mukundgaur/gnarly"><strong>Explore the ecosystem →</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
 <h3>🥁 GroovyAR</h3>
 <p><strong>🏆 1st Place Overall · Cornell Makeathon 2026</strong></p>
 <p>An AR drum trainer with camera-based drumstick tracking and real-time visual cues. Connects mobile controls, a Flask backend, and an OpenCV runtime through WebSockets.</p>
@@ -58,6 +67,8 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 <p><a href="https://github.com/Naijei1/GroovyAR"><strong>Code →</strong></a> &nbsp; <a href="https://youtu.be/zjiVDPzzH5k"><strong>Watch it in action ↗</strong></a></p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>👁️ Seeround</h3>
@@ -65,17 +76,6 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 <p>A wearable assistive-device prototype combining computer vision, distance sensing, and spatial audio to help visually impaired users navigate indoor spaces.</p>
 <p><code>Python</code> <code>OpenCV</code> <code>Raspberry Pi</code></p>
 <p><a href="https://github.com/AuraHatlol/Seeround"><strong>Code →</strong></a> &nbsp; <a href="https://youtu.be/4V7Y8gmsLtg"><strong>Watch it in action ↗</strong></a></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>汉 Chinese Flashcards</h3>
-<p><strong>Built for my own Chinese study.</strong></p>
-<p>A personal Chinese study app with FSRS spaced repetition, pronunciation playback, CSV import/export, and an installable iPhone PWA backed by a single DynamoDB table.</p>
-<p><code>TypeScript</code> <code>Next.js</code> <code>DynamoDB</code> <code>AWS</code></p>
-<p><a href="https://github.com/Naijei1/FlashCardApp"><strong>Explore the app →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
