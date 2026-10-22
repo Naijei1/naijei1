@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://naijei.com"><img src="https://img.shields.io/badge/Visit_my_portfolio_%E2%86%92_naijei.com-0F766E?style=for-the-badge" height="54" alt="Visit my portfolio → naijei.com" /></a>
+<a href="https://naijei.com"><img src="assets/visit-portfolio.png" alt="Visit my portfolio → naijei.com" /></a>
 
 <sub>CORNELL ENGINEERING · COMPUTER SCIENCE '28</sub>
 
