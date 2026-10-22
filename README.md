@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://naijei.com"><img src="assets/visit-portfolio.png" alt="Visit my portfolio → naijei.com" /></a>
-
 <sub>CORNELL ENGINEERING · COMPUTER SCIENCE '28</sub>
 
 # Hey, I'm Naijei 👋
@@ -22,6 +20,8 @@ Backend engineering &nbsp; / &nbsp; Distributed systems &nbsp; / &nbsp; AI + XR
 ## / about
 
 I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems fit together—from distributing file chunks across peers to connecting computer vision with hardware.
+
+🌐 More about me and my projects at **[naijei.com](https://naijei.com)**.
 
 - 🛠️ **Previously @ GEICO** — Kafka schema infrastructure with Terraform and AI agent workflows for claims operations.
 - ⚡ **Tech lead @ Cornell Data Science** — peer-to-peer file distribution and compute infrastructure for ML.
