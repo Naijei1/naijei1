@@ -4,12 +4,12 @@
 
 # Hey, I'm Naijei 👋
 
-Backend engineering &nbsp; / &nbsp; Distributed systems &nbsp; / &nbsp; AI + XR
+Backend & systems engineer
 
 <p>
   <a href="https://naijei.com"><img src="https://img.shields.io/badge/NAIJEI.COM-0F766E?style=for-the-badge" alt="Visit naijei.com" /></a>
   <a href="https://www.linkedin.com/in/naijei/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:naijeiwow@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naijei" /></a>
+  <a href="mailto:nj277@cornell.edu"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge" alt="Email Naijei" /></a>
   <a href="https://github.com/Naijei1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
@@ -26,7 +26,6 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 - 🛠️ **Previously @ GEICO** — Kafka schema infrastructure with Terraform and AI agent workflows for claims operations.
 - ⚡ **Tech lead @ Cornell Data Science** — AWS model-training infrastructure for 6 teams, and a fault-tolerant multiplayer Snake with a team of 6 (co-lead Monisha Bommu).
 - 🎓 **CS 2110 TA** — teaching Java, data structures, and software design.
-- 🌱 **Learning now** — Rust and distributed systems.
 
 ## / selected work
 
@@ -103,7 +102,6 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
   <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Swift-1E293B?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift" />
   <img src="https://img.shields.io/badge/OCaml-1E293B?style=for-the-badge&logo=ocaml&logoColor=FB923C" alt="OCaml" />
   <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
 </p>
@@ -122,11 +120,6 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
   <img src="https://img.shields.io/badge/Terraform-1E293B?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Slurm-1E293B?style=for-the-badge" alt="Slurm" />
-  <img src="https://img.shields.io/badge/NFS-1E293B?style=for-the-badge" alt="NFS" />
-  <img src="https://img.shields.io/badge/Cloudflare-1E293B?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Firebase-1E293B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/vLLM-1E293B?style=for-the-badge" alt="vLLM" />
 </p>
 
 **Data**
@@ -141,17 +134,8 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 
 <p>
   <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Maven-1E293B?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" />
   <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Librosa-1E293B?style=for-the-badge" alt="Librosa" />
-  <img src="https://img.shields.io/badge/Unity-1E293B?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/ARKit-1E293B?style=for-the-badge" alt="ARKit" />
-  <img src="https://img.shields.io/badge/RoomPlan-1E293B?style=for-the-badge" alt="RoomPlan" />
-  <img src="https://img.shields.io/badge/Macroquad-1E293B?style=for-the-badge" alt="Macroquad" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-1E293B?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Hardware-1E293B?style=for-the-badge" alt="Hardware" />
 </p>
 
 ---
