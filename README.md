@@ -97,14 +97,14 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
   <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Rust-1E293B?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
   <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
   <img src="https://img.shields.io/badge/OCaml-1E293B?style=for-the-badge&logo=ocaml&logoColor=FB923C" alt="OCaml" />
+  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
 </p>
 
 **Backend / Infra**
