@@ -7,6 +7,7 @@
 Backend engineering &nbsp; / &nbsp; Distributed systems &nbsp; / &nbsp; AI + XR
 
 <p>
+  <a href="https://naijei.com"><img src="https://img.shields.io/badge/NAIJEI.COM-0F766E?style=for-the-badge" alt="Visit naijei.com" /></a>
   <a href="https://www.linkedin.com/in/naijei/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:naijeiwow@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naijei" /></a>
   <a href="https://github.com/Naijei1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
@@ -79,11 +80,11 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 </td>
 <td width="50%" valign="top">
 
-<h3>🥽 VR Bioprinting</h3>
-<p><strong>Learning through interaction.</strong></p>
-<p>Led development of an interactive VR bioprinting simulator for education research with RIT. Built virtual interactions and 3D assets to help users explore bioprinting concepts.</p>
-<p><code>C#</code> <code>Unity</code> <code>Blender</code></p>
-<p><a href="https://github.com/Naijei1/VR-Bioprinting-Research-Project"><strong>Explore the research project →</strong></a></p>
+<h3>🐍 FTM Snake</h3>
+<p><strong>Team of 6 · Cornell Data Science.</strong></p>
+<p>Fault-tolerant multiplayer Snake: authoritative Rust server + TS/WebSocket clients for 4+ LAN players with heartbeat-based failover. Tech lead, with co-lead Monisha Bommu. Phase 0 (local 2-player) done; Phase 1 (4+ player LAN) in progress; Phase 2 TBD.</p>
+<p><code>Rust</code> <code>TypeScript</code> <code>WebSockets</code> <code>Macroquad</code></p>
+<p><a href="https://github.com/CornellDataScience/FTM-Snake"><strong>Explore the system →</strong></a></p>
 
 </td>
 </tr>
@@ -91,7 +92,7 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
 
 ## / toolkit
 
-**Languages I work with**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
@@ -99,22 +100,39 @@ I'm **Naijei Jiang**, a CS student at Cornell. I like figuring out how systems f
   <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C" />
   <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-1E293B?style=for-the-badge" alt="C sharp" />
-  <img src="https://img.shields.io/badge/OCaml-1E293B?style=for-the-badge&logo=ocaml&logoColor=FB923C" alt="OCaml" />
   <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge" alt="SQL" />
 </p>
 
-**Backend & systems** · `Spring Boot` `gRPC` `Protocol Buffers` `Flask` `Node.js` `Kafka`
+**Backend / Infra**
 
-**Infrastructure** · `AWS` `Terraform` `Docker` `Linux` `Slurm` `NFS` `Git`
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/gRPC-1E293B?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Protobuf-1E293B?style=for-the-badge&logo=protobuf&logoColor=white" alt="Protocol Buffers" />
+  <img src="https://img.shields.io/badge/Kafka-1E293B?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-1E293B?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
 
-**Databases** · `DynamoDB` `MongoDB` `PostgreSQL`
+**Data**
 
-**Web & mobile** · `React` `Next.js` `React Native` `HTML/CSS` `Tailwind CSS`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/DynamoDB-1E293B?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</p>
 
-**ML & vision** · `OpenCV` `scikit-learn` `NumPy` `pandas`
+**Tools**
 
-**XR & hardware** · `Unity` `Blender` `Raspberry Pi`
+<p>
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
 ---
 
